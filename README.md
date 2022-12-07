@@ -10,7 +10,7 @@ I'm Gabriel Henrique, my focus is to acquire knowledge to get my first job as a 
 <h2>I'm learning:</h2>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <div>
 <h2>Contatos:</h2>
 <a href="https://instagram.com/gabrieelh_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
