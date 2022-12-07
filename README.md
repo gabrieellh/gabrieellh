@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1> 👋Hi, welcome to my github profile. </h1>
+My name is Gabriel Henrique, gabrieellh is my username on github.
+I'm still learning programming.
 
-<!--
-**gabrieellh/gabrieellh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Technologies I usually use on my projects:</h2>
 
-Here are some ideas to get you started:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+
+<h2>Technologies that I'm studying</h2>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40" />
+
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+
+<div>
+<p>Contatos:</p>
+<a href="https://instagram.com/gabrieelh_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+<div>
+<a href="https://github.com/gabrieellh">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieellh&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieellh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
