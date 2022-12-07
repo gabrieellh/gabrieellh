@@ -1,6 +1,5 @@
 <h1> 👋Hi, welcome to my github profile. </h1>
-My name is Gabriel Henrique, gabrieellh is my username on github.
-I'm still learning programming.
+I'm Gabriel Henrique, my focus is to acquire knowledge to get my first job as a Front-End developer. I started programming just over 3 months ago, currently I'm still studying.
 
 <h2>Technologies I usually use on my projects:</h2>
 
