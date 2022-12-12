@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Gabriel Henrique </h1>
+<h1 align="center">👩‍💻 Hi, i'm Gabriel Henrique </h1>
 
 <div align="center">
 
@@ -27,6 +27,8 @@ I started programming just over 3 months ago, currently I'm still studying. <br>
 
 <div>
 <h2>Status</h2>
-<a href="https://github.com/gabrieellh"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieellh&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieellh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/gabrieellh"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieellh&layout=compact&langs_count=7&theme=dracula">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieellh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 </div>
 
