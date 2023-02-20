@@ -1,4 +1,5 @@
- <h1> Hi there 👋 I'm Gabriel Henrique </h1>
+ <h1 align="center"> Hi there 👋 I'm Gabriel Henrique </h1>
+ <p align="center"> A developer in search of sucess </p>
 
 - 🌱 I’m currently learning - Github, SQL...
 - 🤔 I’m looking for help with - JavaScript
