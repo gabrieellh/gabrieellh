@@ -5,3 +5,5 @@
 - 💬 Ask me about - HTML, CSS, Git...
 - 📫 How to reach me - https://gabriel-developer-ten.vercel.app
 - ⚡ Fun fact -  I love Basketball
+
+<p><img width="45%" height="160emm" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=gabrieellh&theme=dark&fire=#40C9B6&ring=40C9B6&currStreakLabel=red)](https://git.io/streak-stats"/></p>
